@@ -21,7 +21,16 @@ section{
 div h1{
     font-size: 50px;
 }
-div h1 span{
-    color: rgb(40, 169, 219);
+.blue-clr{
+  color: rgb(40, 169, 219);
 }
-
+.div-width a{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,rgb(7, 137, 177));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
