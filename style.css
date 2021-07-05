@@ -6,8 +6,7 @@ body{
     width: 600px;
     height: 600px;
     border: 5px solid gray;
-    box-shadow: 50px 50px 100px gray;
-   
+    box-shadow: 50px 50px 100px gray;  
 }
 .div-width{
     width: 50%;
@@ -25,7 +24,7 @@ div h1{
 .blue-clr{
   color: rgb(40, 169, 219);
 }
-.div-width a{
+.hire-me{
     text-decoration: none;
     background-image: linear-gradient(cyan,rgb(7, 137, 177));
     padding: 10px 40px;
@@ -40,8 +39,6 @@ div h1{
     background-repeat: no-repeat;
     background-position-y: 20px;
     background-position-x: 10px;
-    
-    
     
 
 }
